@@ -1,3 +1,2 @@
-unit_num,street,city,prov,district,latitude,longitude,sold_date,dom,sold_price,listing_price,beds,baths,size,mls,brokerage,listing_date,street_num,app_num,full_address
-17,Nomad Crescent,Toronto,ON,Banbury-don Mills,0.0,0.0,2023-08-16,1,4360000,4380000,5,5,4250,C6743806,LC REALTY INC.,2023-08-15,17,-999,17 Nomad Crescent Toronto ON
-703-5001,Finch Avenue,Toronto,ON,Agincourt North,43.8078,-79.2678,2023-08-16,5,470000,438000,1,1,650,E6735154,SKYLAND REALTY INC.,2023-08-11,5001,703,5001 Finch Avenue Toronto ON
+row_index,unit_num,street,city,prov,district,latitude,longitude,sold_date,dom,sold_price,listing_price,beds,baths,size,mls,brokerage,listing_date,street_num,app_num,full_address
+1,57-847,Sheppard Avenue,Toronto,ON,Clanton Park,0.0,0.0,2023-07-28,99,870000,899900,2,2,1100,C6039759,"RE/MAX PRIME PROPERTIES - UNIQUE GROUP, BROKERAGE",2023-04-20,847,57,847 Sheppard Avenue Toronto ON
